@@ -19,4 +19,4 @@ contract CoinFiance is ERC20 {
 ```
 
 ## Compilation and Deployment
-When deployed with Compiler v8.7, the transfer function would not send it to the wallets
+TO DO: Deploy on test net
